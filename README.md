@@ -1,2 +1,4 @@
 # HomeAdmin2.0
-new version of HomeAdmin app
+New version of HomeAdmin app.
+Rewrited in OOP style
+
